@@ -1,0 +1,252 @@
+# clarification: "data" means that the imgur album has headers for each image, and as such
+# the data can be filled out automatically
+
+
+items:
+    -   name: Chewbacker
+        albums:
+            -   id: Ezbtc
+                data: No
+        threads: ["2et773","2et9jo"]
+        games:
+            -   "Minecraft"
+            -   "Battlefield 3"
+            -   "Half-Life 2: Episode Two"
+            -   "Half-Life 2: Episode One"
+            -   "Portal"
+            -   "Doom 3"
+            -   "Portal 2"
+            -   "Borderlands 2"
+            -   "Skyrim"
+            -   "Counter Strike: Global Offensive"
+            -   "Half-Life 2"
+            -   "Halo: Spartain Assault"
+            -   "Mafia 2"
+            -   "Hotline Miami"
+            -   "Fallout: New Vegas"
+            -   "Brothers: A Tale Of Two Sons"
+            -   "Farcry"
+            -   "Civilization 5"
+            -   "Left 4 Dead"
+            -   "Assassin's Creed 3"
+            -   "Batman: Arkham City"
+            -   "Farcry 3"
+    -   name: zolanphe
+        albums:
+            -   id: aquoJ
+                data: Yes
+        threads: ["2ew84u","2ew8te"]
+    -   name: imax_
+        albums:
+            -   id: dC9bE
+            -   data: Yes
+        threads:
+            -   "2eye5x"
+    -   name: Roaming_South
+        albums:
+            -   id: I1O4M
+                data: No
+        threads: ["2eyld6"]
+        games:
+            -   "Alan Wake"
+            -   "Alan Wake's American Nightmare"
+            -   "Battlefield Bad Company 2"
+            -   "Castle Crashers"
+            -   "Crysis 2"
+            -   "Dayz"
+            -   "Gunpoint"
+            -   "Hawken"
+            -   "L.a. Noire"
+            -   "Mark Of The Ninja"
+            -   "Max Payne 3"
+            -   "Mirror's Edge"
+            -   "Monaco"
+            -   "Mortal Kombat"
+            -   "Telltale Games' Poker Night 2"
+            -   "Portal 2"
+            -   "Prison Architect"
+            -   "Gunn Samurai"
+            -   "Sniper Elite 2"
+            -   "The Showdown Effect"
+    -   name: caligari87
+        albums: 
+            -   id: BtT2G
+                data: Yes
+            -   id: XyFoK
+                data: Yes
+        threads: ["2eziqb", "2f3n8k"]
+        games:
+            -   "Rainbow 6 (http://i.imgur.com/8ZOJZmW.jpg)"
+            -   "Skype (http://i.imgur.com/KRhRms3.jpg)"
+            -   "EA Origin (http://i.imgur.com/3PqIOAN.jpg)"
+            -   "Mod Organizer (http://i.imgur.com/9wVwvtk.jpg)"
+    -   name: merlinicorpus
+        albums: 
+            -   id: bYdpM
+                data: No
+        threads: ["2f02e5"]
+        games:
+            -   "Homefront"
+            -   "Limbo"
+            -   "Mass Effect"
+            -   "Quake"
+            -   "Quake 2"
+            -   "Return To Castle Wolfenstein"
+            -   "Revenge Of The Titans"
+            -   "Rocket Birds: Hardboiled Chicken"
+            -   "Titan Attacks"
+            -   "Ultratron"
+    -   name: foirfe
+        albums: 
+            -   id: uLRdT
+                data: No
+        threads: ["2f034w"]
+        games:
+            -   "Amnesia: The Dark Descent"
+            -   "Assassin's Creed"
+            -   "Assassin's Creed: Revelations"
+            -   "Bioshock"
+            -   "Bully: Scholarship Edition"
+            -   "Burnout Paradise"
+            -   "Call Of Duty 2"
+            -   "Call Of Duty: Modern Warfare 2"
+            -   "Company Of Heroes"
+            -   "Darkness 2"
+            -   "Dead Island"
+            -   "Dirt 3"
+            -   "Dirt Showdown"
+            -   "Dungeon Defenders"
+            -   "Fear 2: Project Origin"
+            -   "Grand Theft Auto: San Andreas"
+            -   "Killing Floor"
+            -   "Lego: The Lord Of The Rings"
+            -   "Lego Marvel Super Heroes"
+            -   "The Lord Of The Rings: War In The North"
+            -   "Mini Ninjas"
+            -   "Nosgoth"
+            -   "Orcs Must Die 2"
+            -   "Payday 2"
+            -   "Rage"
+            -   "Rocksmith"
+            -   "South Park The Stick Of Truth"
+            -   "Star Wars: Battlefront 2"
+            -   "Tropico 4"
+    -   name: Jimmyjams400
+        albums: 
+            -   id: q0U6i
+                data: No
+        threads: ["2f087j"]
+        games:
+            -   "Bioshock Infinite"
+            -   "Garry's Mod"
+            -   "Total War Rome 2"
+            -   "Guild Wards 2"
+            -   "Plants Vs Zombies Garden Warfare"
+            -   "Just Cause 2"
+            -   "Just Cause 2 Multiplayer"
+            -   "Mount And Blade Warband"
+            -   "Sniper Elite V2"
+            -   "Sniper Elite 3"
+            -   "Star Wars: The Old Republic"
+            -   "Bad Rats"
+    -   name: aproxima_alias
+        albums: 
+            -   id: lK1fx
+                data: No
+        threads: ["2f0s58","2ez5s0"]
+        games:
+            -   "Tomb Raider"
+            -   "The Stanley Parable"
+            -   "Saints Row 4"
+            -   "Saints Row 3"
+            -   "Monaco"
+            -   "Mirror's Edge"
+            -   "Mass Effect 2"
+            -   "Limbo"
+            -   "Braid"
+            -   "Dust"
+            -   "Electronic Super Jam"
+            -   "Fez"
+            -   "Ftl Faster Than Light"
+            -   "Just Cause 2"
+            -   "Just Cause 2 Multiplayer"
+            -   "Left 4 Dead 2"
+            -   "Bastion"
+            -   "Age Of Empires 3"
+            -   "Age Of Empires 2"
+            -   "Antichamber"
+            -   "Garry's Mode"
+            -   "Star Wars Battlefront"
+            -   "Trine 2"
+            -   "Tomb Raider Anniversary"
+            -   "Portal 2"
+            -   "Portal"
+            -   "Papers, Please"
+            -   "Half Life"
+            -   "Dota 2"
+    -   name: Phoenixby13
+        albums: 
+            -   id: sESEH 
+                data: No
+            -   id: xMex3 
+                data: No
+            -   id: GRe9l
+                data: No
+        threads: ["2evfva"]
+        games:
+            -   "Dishonored"
+            -   "Divinity: Original Sin"
+            -   "Payday 2"
+            -   "Warframe"
+            -   "Alan Wake"
+            -   "Don't Starve"
+            -   "Max Payne 3"
+            -   "Binding of Isaac"
+            -   "Tomb Raider"
+            -   "DayZ"
+    -   name: secondthought
+        albums: 
+            -   id: dlpom
+                data: No
+        threads: ["2f0y7g"]
+        games:
+            -   "Star Citizen"
+            -   "Morrowind"
+            -   "Euro Truck Simulator 2"
+            -   "Euro Truck Simulator 2 Multiplayer"
+            -   "Fallout 3"
+            -   "Rust"
+    -   name: alcia
+        albums: 
+            -   id: ECXgN
+                data: Yes
+        threads: ["2f158u"]
+    -   name: Gan3b
+        albums: 
+            -   id: f0Nxh
+                data: No
+        threads: ["2f19q9"]
+        games:
+            -   "Dustforce"
+            -   "Live For Speed"
+            -   "Project Cars"
+            -   "Transistor"
+            -   "Banished"
+            -   "Broken Age"
+            -   "Divinity Original Sin"
+            -   "Draw A Stickman Epic"
+    -   name: ShinyBlueUnicorn
+        albums: 
+            -   id: ONhZQ
+                data: Yes
+        threads: ["2f1rk6"]
+    -   name: Dilanova
+        albums: 
+            -   id: wTNyu
+                data: Yes
+        threads: ["2f1rov"]
+    -   name: Deadlywere
+        albums: 
+            -   id: BbRym
+                data: Yes
+        threads: ["2f1vgr"]
