@@ -29,10 +29,14 @@ for item in dataset:
     print("### /u/{}".format(item.name))
     if 'albums' in item:
         ids = map(lambda x:"http://imgur.com/a/"+x.id,item.albums)
-        print("Albums: {}  ".format(','.join(ids)))
+        print("Albums: {}  ".format(', '.join(ids)))
     if 'threads' in item:
         ids = map(lambda x:"http://redd.it/"+x,item.threads)
-        print("Threads: {}  \n".format(','.join(ids)))
+        print("Threads: {}  ".format(', '.join(ids)))
+    if 'images' in item:
+        print("Images: {}  ".format(','.join(item.images)))
+    
+    print()
 
     #games list
     if not 'games' in item:
