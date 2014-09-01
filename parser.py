@@ -22,6 +22,8 @@ def imgur(album):
 
 # Blurred dataset
 
+gamenum=0
+
 with open('blurred.yaml') as f:
     dataset = yaml.load(f)
 
@@ -34,7 +36,7 @@ for item in dataset:
         ids = map(lambda x:"http://redd.it/"+x,item.threads)
         print("Threads: {}  ".format(', '.join(ids)))
     if 'images' in item:
-        print("Images: {}  ".format(','.join(item.images)))
+        print("Images: http://imgur.com/{}  ".format(','.join(item.images)))
     
     print()
 
@@ -46,5 +48,8 @@ for item in dataset:
             if album.data:
                 item.games.extend(imgur(album.id))
     for x in item.games:
+        gamenum+=1
         print("* {}".format(x))
     print()
+print('- - -')
+print('total games: ~{}  \n'.format(gamenum))
