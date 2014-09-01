@@ -265,27 +265,29 @@
             data: Yes
     threads: ["2f1vgr"]
 
--   name: xBurnsy and /u/HelionMusic
+-   name: xBurnsy and /u/HelionMusic # gah
     albums:
-        -   id: 88MQc
-            data: No
-        -   id: RjW0z
+        -   id: 88MQc #PLEASE
+            data: No  #STAP #jesus he did it again
+        -   id: nRD1M
             data: Yes
-        -   id: 9QcCG
+        -   id: gxm0z
             data: Yes
-        -   id: x1f0t
+        -   id: SjWL0
             data: Yes
-        -   id: R3nVp
+        -   id: KMBjD
             data: Yes
-        -   id: NehW8
+        -   id: JdfPx
             data: Yes
-        -   id: vkZDn
+        -   id: oLsiY
             data: Yes
-        -   id: 9ZxaN
+        -   id: VN3uB
             data: Yes
-        -   id: pZEZh
+        -   id: O1gqi
             data: Yes
-    threads: ["2f35ge"]
+        -   id: nA9Tm
+            data: Yes
+    threads: ["2f35ge","2f38b8","2f3q9k"]
 
 -   name: Venderes
     images:
@@ -342,3 +344,45 @@
         -   "The Sims 3: University"
         -   "The Sims 3: Island Paradise"
         -   "The Sims 3: Into The Future"
+
+-   name: ezfruitylemonsqueezy
+    images: ["osCEFhm"]
+    threads: ["2f5nxj"]
+    games:
+        -   "Skyrim"
+
+-   name: fr_automatik
+    images: ["2sQ2sWU"]
+    threads: ["2f5tk9"]
+    games:
+        -   "Assault Cube"
+
+-   name: pastameter
+    threads: ["2f5vsq"]
+    albums: 
+        -   id: l0AxN
+            data: No
+    games:
+        -   "Watch_Dogs (2 versions)"
+        -   "Contrast"
+        -   "DYAD"
+        -   "Fallout"
+        -   "Fallout 2"
+        -   "Fallout Tactics"
+        -   "GTA 2"
+        -   "GTA Vice City"
+        -   "Kentucky Route Zero"
+        -   "Toki Tori 2"
+        -   "Plants vs Zombies"
+        -   "Back to the Future"
+        -   "Cook, Serve, Delicious"
+        -   "Sonic All-Stars Racing Transformed"
+        -   "Foul Play"
+        -   "Gateways"
+        -   "I Am Alive"
+        -   "Sim City 4"
+        -   "The Cave"
+        -   "Thomas Was Alone"
+        -   "Far Cry 3 Blood Dragon"
+        -   "Audiosurf"
+        -   "Age of Empires II HD"
