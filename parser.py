@@ -5,21 +5,31 @@ warnings.filterwarnings("ignore")
 with open('.auth.json') as f:
     auth = json.load(f,object_hook=builtinext.AttrDict)
 
-def mapreplace(loader,node):
-    return builtinext.AttrDict(loader.construct_mapping(node))
-yaml.add_constructor(u'tag:yaml.org,2002:map',mapreplace)
+
+yaml.add_constructor(
+    u'tag:yaml.org,2002:map',
+    lambda loader,node:builtinext.AttrDict(loader.construct_mapping(node))
+)
 
 
 #listgrabber
 def imgur(album):
+    time.sleep(0.5)
+    print('- - - - - - - - - - - -')
     headers = auth.imgur
     response = requests.get(
         "https://api.imgur.com/3/album/{}".format(
             album),headers=headers)
-    response.raise_for_status()
-    for x in filter(lambda x:x.startswith("X"),response.headers):
+    print(album)
+
+    for x in filter(
+            lambda x:x.startswith("X-Rate") and
+                     x.endswith('Remaining'),
+            response.headers
+      ):
         print("{0}: {1}".format(x,response.headers[x]))
-    time.sleep(0.5)
+
+    response.raise_for_status()
     return response.json(object_hook=builtinext.AttrDict).data
 
 
@@ -49,8 +59,7 @@ for item in dataset:
         output.append('')
         for album in item.albums:
             ialbum=imgur(album.id)
-            print(album.id)
-            output.append("* [{0.title} ({0.images_count})]({0.link})".format(ialbum))
+            output.append("* [{0.title} ({0.images_count}){1}]({0.link})".format(ialbum, " (Automated)" if album.data else ""))
             if album.data:
                 for image in ialbum.images:
                     item.games.append(
