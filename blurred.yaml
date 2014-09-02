@@ -445,6 +445,8 @@
 
 -   name: LadyofTarth
     threads: ["2f97co"]
-    images: ["9oqW1Cm","1t94a4x"] #TODO
+    games:
+        -   "[Baulur's Gate: Enhanced Edition](http://i.imgur.com/9oqW1Cm)"
+        -   "[Jade Empire: Special Edition](http://i.imgur.com/1t94a4x)"
 
 #http://www.reddit.com/r/steamgrid/comments/2f8nvr/700_blurred_icons_looking_for_requests_and_people/
