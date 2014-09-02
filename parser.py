@@ -16,7 +16,7 @@ def imgur(album):
     response = requests.get("https://api.imgur.com/3/album/{}".format(album),headers=headers)
     response.raise_for_status()
     time.sleep(2)
-    return list(map(lambda x:x.title,response.json(object_hook=builtinext.AttrDict).data.images))
+    return list(response.json(object_hook=builtinext.AttrDict).data.images)
 
 
 
@@ -27,18 +27,19 @@ gamenum=0
 with open('blurred.yaml') as f:
     dataset = yaml.load(f)
 
+output = []
 for item in dataset:
-    print("### /u/{}".format(item.name))
+    output.append("### /u/{}".format(item.name))
     if 'albums' in item:
         ids = map(lambda x:"http://imgur.com/a/"+x.id,item.albums)
-        print("Albums: {}  ".format(', '.join(ids)))
+        output.append("Albums: {}  ".format(', '.join(ids)))
     if 'threads' in item:
         ids = map(lambda x:"http://redd.it/"+x,item.threads)
-        print("Threads: {}  ".format(', '.join(ids)))
+        output.append("Threads: {}  ".format(', '.join(ids)))
     if 'images' in item:
-        print("Images: http://imgur.com/{}  ".format(','.join(item.images)))
+        output.append("Images: http://imgur.com/{}  ".format(','.join(item.images)))
     
-    print()
+    output.append('')
 
     #games list
     if not 'games' in item:
@@ -46,10 +47,13 @@ for item in dataset:
     if 'albums' in item:
         for album in item.albums:
             if album.data:
-                item.games.extend(imgur(album.id))
+                for image in imgur(album.id):
+                    item.games.append("[{0.title}]({0.link})".format(image))
     for x in item.games:
         gamenum+=1
-        print("* {}".format(x))
-    print()
-print('- - -')
-print('total games: ~{}  \n'.format(gamenum))
+        output.append("* {}".format(x))
+    output.append('')
+output.append('- - -')
+output.append('total games: ~{}  \n'.format(gamenum))
+
+open("output.md","w").writelines(str(x)+"\n" for x in output)

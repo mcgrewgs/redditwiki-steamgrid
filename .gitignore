@@ -54,3 +54,6 @@ docs/_build/
 
 # auth keys
 .auth.json
+
+#output
+output.md
