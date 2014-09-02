@@ -257,6 +257,8 @@
     albums: 
         -   id: wTNyu
             data: Yes
+        -   id: L9r2Q
+            data: Yes
     threads: ["2f1rov"]
 
 -   name: Deadlywere
@@ -386,3 +388,63 @@
         -   "Far Cry 3 Blood Dragon"
         -   "Audiosurf"
         -   "Age of Empires II HD"
+
+-   name: Dylan112
+    threads: ["2f5y7p","2f8sxd"]
+    albums:
+        -   id: "ylksC"
+            data: No
+        -   id: "EpmEN"
+            data: No
+    games:
+        -   "1953: KGB Unleashed"
+        -   "Ace of Spades: Battle Builder"
+        -   "Air buccaneers"
+        -   "Anodyne"
+        -   "Anomoly: Warzone Earth"
+        -   "Beat Hazard"
+        -   "BIT.TRIP Runner"
+
+-   name: Bioshiit
+    threads: ["2f677s"]
+    albums:
+        -   id: TOuCI #TODO
+            data: No
+
+-   name: OliHoward2
+    threads: ["2f6ic8"]
+    albums:
+        -   id: svdNi #TODO
+            data: No
+
+-   name: icyassassin
+    threads: ["2f78ta"]
+    images: zU0tcLe.jpg #TODO
+
+-   name: Nik_Tesla
+    threads: ["2f7vav"]
+    albums:
+        -   id: KJXU3 #TODO
+            data: No
+
+-   name: Delayed_Rug
+    threads: ["2f875u"]
+    images: C1GP7yA.png #TODO
+
+-   name: ender63
+    threads: ["2f896m"]
+    albums:
+        -   id: 0dZNM #TODO
+            data: No
+
+-   name: Ditti
+    threads: ["2f916p"]
+    albums:
+        -   id: wj5FQ #THANKS
+            data: Yes
+
+-   name: LadyofTarth
+    threads: ["2f97co"]
+    images: ["9oqW1Cm","1t94a4x"] #TODO
+
+#http://www.reddit.com/r/steamgrid/comments/2f8nvr/700_blurred_icons_looking_for_requests_and_people/
