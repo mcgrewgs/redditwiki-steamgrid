@@ -79,10 +79,10 @@
             data: Yes
     threads: ["2eziqb", "2f3n8k"]
     games:
-        -   "Rainbow 6 (http://i.imgur.com/8ZOJZmW.jpg)"
-        -   "Skype (http://i.imgur.com/KRhRms3.jpg)"
-        -   "EA Origin (http://i.imgur.com/3PqIOAN.jpg)"
-        -   "Mod Organizer (http://i.imgur.com/9wVwvtk.jpg)"
+        -   "[Rainbow 6](http://i.imgur.com/8ZOJZmW.jpg)"
+        -   "[Skype](http://i.imgur.com/KRhRms3.jpg)"
+        -   "[EA Origin](http://i.imgur.com/3PqIOAN.jpg)"
+        -   "[Mod Organizer](http://i.imgur.com/9wVwvtk.jpg)"
 
 -   name: merlinicorpus
     albums: 
@@ -392,8 +392,6 @@
 -   name: Dylan112
     threads: ["2f5y7p","2f8sxd"]
     albums:
-        -   id: "ylksC"
-            data: No
         -   id: "EpmEN"
             data: No
     games:
@@ -419,7 +417,7 @@
 
 -   name: icyassassin
     threads: ["2f78ta"]
-    images: zU0tcLe.jpg #TODO
+    images: ["zU0tcLe"] #TODO
 
 -   name: Nik_Tesla
     threads: ["2f7vav"]
@@ -429,7 +427,7 @@
 
 -   name: Delayed_Rug
     threads: ["2f875u"]
-    images: C1GP7yA.png #TODO
+    images: ["C1GP7yA"] #TODO
 
 -   name: ender63
     threads: ["2f896m"]
@@ -458,57 +456,3 @@
             data: Yes
         -   id: rdwk6
             data: Yes
-        -   id: "mHLSP"
-            data: No
-        -   id: "ZU9ml"
-            data: No
-        -   id: "r1bxZ"
-            data: No
-        -   id: "xsv1O"
-            data: No
-        -   id: "3ddjO"
-            data: No
-        -   id: "g9Q7D"
-            data: No
-        -   id: "LQsIC"
-            data: No
-        -   id: "pJJDX"
-            data: No
-        -   id: "2bgj2"
-            data: No
-        -   id: "h3tQC"
-            data: No
-        -   id: "ufmjd"
-            data: No
-        -   id: "94ElH"
-            data: No
-        -   id: "Zv0vj"
-            data: No
-        -   id: "bARv2"
-            data: No
-        -   id: "APRQj"
-            data: No
-        -   id: "STX8p"
-            data: No
-        -   id: "uBZuH"
-            data: No
-        -   id: "L9CrT"
-            data: No
-        -   id: "8Qbjv"
-            data: No
-        -   id: "xmPiF"
-            data: No
-        -   id: "zS0GA"
-            data: No
-        -   id: "c3i3U"
-            data: No
-        -   id: "VFUpv"
-            data: No
-        -   id: "XE3u1"
-            data: No
-        -   id: "CA5MQ"
-            data: No
-        -   id: "mOVGn"
-            data: No
-        -   id: "iJ5iz"
-            data: No
