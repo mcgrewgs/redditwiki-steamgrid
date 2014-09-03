@@ -6,7 +6,7 @@
     albums:
         -   id: Ezbtc
             data: No
-    threads: ["2et773","2et9jo"]
+    threads: ["2et773","2et9jo","2f3stw"]
     games:
         -   "Minecraft"
         -   "Battlefield 3"
@@ -137,11 +137,13 @@
         -   "Star Wars: Battlefront 2"
         -   "Tropico 4"
 
--   name: Jimmyjams400
+-   name: Jimmyjams400 - Data Needed
     albums: 
         -   id: q0U6i
             data: No
-    threads: ["2f087j"]
+        -   id: bLfvZ #TODO
+            data: No
+    threads: ["2f087j","2fa5ym"]
     games:
         -   "Bioshock Infinite"
         -   "Garry's Mod"
@@ -160,6 +162,7 @@
     albums: 
         -   id: lK1fx
             data: No
+
     threads: ["2f0s58","2ez5s0"]
     games:
         -   "Tomb Raider"
@@ -267,7 +270,7 @@
             data: Yes
     threads: ["2f1vgr"]
 
--   name: xBurnsy and /u/HelionMusic # gah
+-   name: xBurnsy # gah
     albums:
         -   id: 88MQc #PLEASE
             data: No  #STAP #jesus he did it again
@@ -291,7 +294,12 @@
             data: Yes
     threads: ["2f35ge","2f38b8","2f3q9k"]
 
--   name: Venderes
+-   name: HelionMusic - Data Needed
+    albums:
+        -   id: LJpx1
+            data: No
+
+-   name: Venderes # Add more of his later
     images:
         -   Psso3E1
         -   t1BuPp4
@@ -393,35 +401,35 @@
     threads: ["2f5y7p","2f8sxd"]
     albums:
         -   id: "uVYhW"
-            data: No
+            data: Yes
 
--   name: Bioshiit
+-   name: Bioshiit - Data Needed
     threads: ["2f677s"]
     albums:
         -   id: TOuCI #TODO
             data: No
 
--   name: OliHoward2
+-   name: OliHoward2 - Data Needed
     threads: ["2f6ic8"]
     albums:
         -   id: svdNi #TODO
             data: No
 
--   name: icyassassin
+-   name: icyassassin - Data Needed
     threads: ["2f78ta"]
     images: ["zU0tcLe"] #TODO
 
--   name: Nik_Tesla
+-   name: Nik_Tesla - Data Needed
     threads: ["2f7vav"]
     albums:
         -   id: KJXU3 #TODO
             data: No
 
--   name: Delayed_Rug
+-   name: Delayed_Rug - Data Needed
     threads: ["2f875u"]
     images: ["C1GP7yA"] #TODO
 
--   name: ender63
+-   name: ender63 - Data Needed
     threads: ["2f896m"]
     albums:
         -   id: 0dZNM #TODO
@@ -448,3 +456,5 @@
             data: Yes
         -   id: rdwk6
             data: Yes
+
+-   name: Androvax - Data Needed #why yes I am this lazy
