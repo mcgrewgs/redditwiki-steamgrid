@@ -7,7 +7,7 @@ if you wanna make a complaint, hit me up on the issues tab on the right! I'll re
 
 - - -
 
-**Contribute to my additions!**
+**Contribute to my addictions!**
 
 Bitcoin: [1Lunchyb3u3Qmad8PiMKdAKnvgKE7Da42K](bitcoin:1Lunchyb3u3Qmad8PiMKdAKnvgKE7Da42K)
 
