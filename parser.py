@@ -36,12 +36,13 @@ def imgur(album):
 
 # Blurred dataset
 
-gamenum=0
 
 with open('blurred.yaml') as f:
     dataset = yaml.load(f)
 
 output = []
+gamenum=0
+imagenum=0
 for item in dataset:
     output.append("### /u/{}".format(item.name))
 
@@ -59,6 +60,7 @@ for item in dataset:
         output.append('')
         for album in item.albums:
             ialbum=imgur(album.id)
+            imagenum += ialbum.images_count
             output.append("* [{0.title} ({0.images_count}){1}]({0.link})".format(ialbum, " (Automated)" if album.data else ""))
             if album.data:
                 for image in ialbum.images:
@@ -76,6 +78,7 @@ for item in dataset:
     output.append('')
 
 
-output.append('total games: ~{}  \n'.format(gamenum))
+output.append('total games: ~{}  '.format(gamenum))
+output.append('total images: ~{}  \n'.format(imagenum))
 
 open("output.md","w").writelines(str(x)+"\n" for x in output)
