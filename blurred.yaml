@@ -2,49 +2,49 @@
 # the data can be filled out automatically
 
 
--   name: Chewbacker
+-   name: Chewbacker #Manual
     albums:
         -   id: Ezbtc
             data: No
     threads: ["2et773","2et9jo","2f3stw"]
     games:
-        -   "Minecraft"
-        -   "Battlefield 3"
-        -   "Half-Life 2: Episode Two"
-        -   "Half-Life 2: Episode One"
-        -   "Portal"
-        -   "Doom 3"
-        -   "Portal 2"
-        -   "Borderlands 2"
-        -   "Skyrim"
-        -   "Counter Strike: Global Offensive"
-        -   "Half-Life 2"
-        -   "Halo: Spartain Assault"
-        -   "Mafia 2"
-        -   "Hotline Miami"
-        -   "Fallout: New Vegas"
-        -   "Brothers: A Tale Of Two Sons"
-        -   "Farcry"
-        -   "Civilization 5"
-        -   "Left 4 Dead"
-        -   "Assassin's Creed 3"
-        -   "Batman: Arkham City"
-        -   "Farcry 3"
+        -   "[Minecraft](http://i.imgur.com/fhIe7PA.png)"
+        -   "[Battlefield 3](http://i.imgur.com/whPpbRM.png)"
+        -   "[Half-Life 2: Episode Two](http://i.imgur.com/mhmVUbs.png)"
+        -   "[Half-Life 2: Episode One](http://i.imgur.com/oU0Ey0k.png)"
+        -   "[Portal](http://i.imgur.com/zge0frw.png)"
+        -   "[Doom 3](http://i.imgur.com/aVO8fkT.png)"
+        -   "[Portal 2](http://i.imgur.com/sVzQ9HF.png)"
+        -   "[Borderlands 2](http://i.imgur.com/Wsyop45.png)"
+        -   "[Skyrim](http://i.imgur.com/TLl5mNk.png)"
+        -   "[Counter Strike: Global Offensive](http://i.imgur.com/AtPmPaP.png)"
+        -   "[Half-Life 2](http://i.imgur.com/ZaNXIS0.png)"
+        -   "[Halo: Spartain Assault](http://i.imgur.com/CxgVnUw.png)"
+        -   "[Mafia 2](http://i.imgur.com/s7jKoPW.png)"
+        -   "[Hotline Miami](http://i.imgur.com/1pgE4R2.png)"
+        -   "[Fallout: New Vegas](http://i.imgur.com/D1tsUjY.png)"
+        -   "[Brothers: A Tale Of Two Sons](http://i.imgur.com/MrdkuuB.png)"
+        -   "[Farcry](http://i.imgur.com/igo9LE2.png)"
+        -   "[Civilization 5](http://i.imgur.com/GAnG5ZH.png)"
+        -   "[Left 4 Dead](http://i.imgur.com/12LpSOj.png)"
+        -   "[Assassin's Creed 3](http://i.imgur.com/HkGhvOS.png)"
+        -   "[Batman: Arkham City](http://i.imgur.com/Rv0Ytgx.png)"
+        -   "[Farcry 3](http://i.imgur.com/epkcthh.png)"
 
--   name: zolanphe
+-   name: zolanphe #Automated
     albums:
         -   id: aquoJ
             data: Yes
     threads: ["2ew84u","2ew8te"]
 
--   name: imax_
+-   name: imax_ #Automated
     albums:
         -   id: dC9bE
             data: Yes
     threads:
         -   "2eye5x"
 
--   name: Roaming_South
+-   name: Roaming_South #Manual
     albums:
         -   id: I1O4M
             data: No
@@ -447,8 +447,6 @@
         -   "[Baulur's Gate: Enhanced Edition](http://i.imgur.com/9oqW1Cm)"
         -   "[Jade Empire: Special Edition](http://i.imgur.com/1t94a4x)"
 
-#http://www.reddit.com/r/steamgrid/comments/2f8nvr/700_blurred_icons_looking_for_requests_and_people/
-
 -   name: CoolAbedFilms1
     threads: ["2f8nvr"]
     albums:
@@ -458,3 +456,27 @@
             data: Yes
 
 -   name: Androvax - Data Needed #why yes I am this lazy
+
+-   name: jb567
+    threads: ["2fbgqg"]
+    albums:
+        -   id: UCRCg
+            data: Yes
+
+-   name: Simplifyze
+    threads: ["2fc00h"]
+    albums:
+        -   id: RSNbM
+            data: Yes
+
+-   name: addicted_to_pepsi - Data Needed
+    threads: ["2fcle1"]
+    albums:
+        -   id: kA9Pl #jpg plz
+            data: No
+
+-   name: RubyPinch
+    albums:
+        -   id: o6Zbi
+            data: Yes
+
