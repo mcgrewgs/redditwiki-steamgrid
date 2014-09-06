@@ -16,11 +16,11 @@ yaml.add_constructor(
 def imgur(album):
     time.sleep(0.5)
     print('- - - - - - - - - - - -')
+    print(album)
     headers = auth.imgur
     response = requests.get(
         "https://api.imgur.com/3/album/{}".format(
             album),headers=headers)
-    print(album)
 
     for x in filter(
             lambda x:x.startswith("X-Rate") and
