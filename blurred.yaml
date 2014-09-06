@@ -274,23 +274,23 @@
     albums:
         -   id: 88MQc #PLEASE
             data: No  #STAP #jesus he did it again
-        -   id: nRD1M
+        -   id: nRD1M #A-C
             data: Yes
-        -   id: gxm0z
+        -   id: gxm0z #D-F
             data: Yes
-        -   id: SjWL0
+        -   id: SjWL0 #G-I
             data: Yes
-        -   id: KMBjD
+        -   id: KMBjD #J-L
             data: Yes
-        -   id: JdfPx
+        -   id: JdfPx #M-O
             data: Yes
-        -   id: oLsiY
+        -   id: oLsiY #P-R
             data: Yes
-        -   id: VN3uB
+        -   id: VN3uB #S-U
             data: Yes
-        -   id: O1gqi
+        -   id: O1gqi #V-X
             data: Yes
-        -   id: nA9Tm
+        -   id: nA9Tm #Y-Z
             data: Yes
     threads: ["2f35ge","2f38b8","2f3q9k"]
 
@@ -332,10 +332,12 @@
     threads: ["2f4cxn"]
 
 -   name: a_posh_trophy
+    threads: ["2f4nyf","2fk894"]
     albums:
         -   id: Y29jG
             data: Yes
-    threads: ["2f4nyf"]
+        -   id: gEoFW
+            data: Yes
 
 -   name: js41637
     albums:
@@ -480,3 +482,12 @@
         -   id: o6Zbi
             data: Yes
 
+-   name: doZennn
+    threads: ["2fj83m"]
+    albums:
+        -   id: UKLC4
+            data: Yes
+
+-   name: er40 - Data Needed
+-   name: SuingTheCourts - Data Needed
+-   name: er40 - Data Needed
