@@ -632,3 +632,8 @@
     albums:
         -   id: ecG8K
             data: Yes
+
+-   name: kimaro
+    albums:
+        -   id: C84rA
+            data: Yes
