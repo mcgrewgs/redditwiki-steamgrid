@@ -1,0 +1,4 @@
+requests
+pyyaml
+praw
+git+https://github.com/Socialery/BuiltinExt.git#egg=builtinext
